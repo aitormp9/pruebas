@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola, probando...
+=======
+Archivo creado en la nueva rama
+>>>>>>> rama-pruebas
